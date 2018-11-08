@@ -3,3 +3,4 @@ Version 2.
 Version 3.
 Added to master branch.
 Added to second_branch.
+Added to third branch.
