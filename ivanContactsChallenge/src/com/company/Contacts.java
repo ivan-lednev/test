@@ -19,4 +19,10 @@ public class Contacts {
             System.out.println((i + 1) + ". " + contactsList.get(i));
         }
     }
+
+    // We don't need a setter for this, as there is a built in tool for setting a variable
+    public void changeContact(int position, String newItem){
+        contactsList.set(position, newItem);
+        System.out.println("Contact " + (position + 1) + " has been changed");
+    }
 }
