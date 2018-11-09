@@ -1,5 +1,2 @@
-added to fourth branch
+commit 1
 
-this is my first commit
-this is my second commit
-This is the second conflicting change 
