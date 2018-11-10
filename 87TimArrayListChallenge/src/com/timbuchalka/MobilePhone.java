@@ -7,6 +7,8 @@ import java.util.ArrayList;
  */
 public class MobilePhone {
     private String myNumber;
+
+    // We can fill lists with objects
     private ArrayList<Contact> myContacts;
 
     public MobilePhone(String myNumber) {
