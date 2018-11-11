@@ -13,6 +13,8 @@ public class MobilePhone {
 
     public MobilePhone(String myNumber) {
         this.myNumber = myNumber;
+
+        // With lists, we don't pass anything in the parameters, we just declare a new list in the constructor
         this.myContacts = new ArrayList<Contact>();
     }
 
@@ -54,6 +56,7 @@ public class MobilePhone {
         return this.myContacts.indexOf(contact);
     }
 
+    // This is how you find an object in a list without having any instances of this object.
     private int findContact(String contactName) {
         for(int i=0; i<this.myContacts.size(); i++) {
             Contact contact = this.myContacts.get(i);
@@ -80,6 +83,8 @@ public class MobilePhone {
         return null;
     }
 
+    // It looks like we can't just dump all the list into the main with something like
+    // public ArrayList<Double>
     public void printContacts() {
         System.out.println("Contact List");
         for(int i=0; i<this.myContacts.size(); i++) {

@@ -20,6 +20,7 @@ public class Contact {
         return phoneNumber;
     }
 
+    // A factory method. It is not clear, why Tim used it here.
     public static Contact createContact(String name, String phoneNumber) {
         return new Contact(name, phoneNumber);
     }

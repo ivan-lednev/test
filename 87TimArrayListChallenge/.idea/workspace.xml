@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="677aa4ec-b914-4c37-8d7c-a49c10071e72" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/timbuchalka/notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListChallenge/com/timbuchalka/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/intellijProjects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/out/production/intellijProjects/com/company/Contacts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/out/production/intellijProjects/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/src/com/company/Contacts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ivanContactsChallenge/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/notes" afterDir="false" />
     </list>
     <ignored path="ArrayListChallenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +24,11 @@
     <session id="-206330224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="37" />
-          <entry key="notes" value="109" />
+          <entry key="java" value="539" />
+          <entry key="notes" value="236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="37" />
-          <entry key="PLAIN_TEXT" value="109" />
+          <entry key="JAVA" value="539" />
+          <entry key="PLAIN_TEXT" value="236" />
         </counts>
       </usages-collector>
     </session>
@@ -77,11 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="240">
+              <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -89,17 +74,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="645">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -107,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="66" selection-start-column="66" selection-end-column="66" />
+            <state relative-caret-position="45">
+              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -122,14 +107,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index</find>
+      <find>indexOf</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" />
         <option value="$PROJECT_DIR$/src/com/timbuchalka/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" />
         <option value="$PROJECT_DIR$/src/com/timbuchalka/notes" />
         <option value="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" />
       </list>
@@ -140,10 +131,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-584" />
-    <option name="y" value="212" />
-    <option name="width" value="1747" />
-    <option name="height" value="908" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,7 +148,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541859703286" />
     <property name="dynamic.classpath" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../90IvanAutoboxingChallenge" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RunDashboard">
@@ -417,8 +407,7 @@
     <option name="totallyTimeSpent" value="5281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="-1" width="1368" height="749" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -496,29 +485,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="240">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="66" selection-start-column="66" selection-end-column="66" />
+        <state relative-caret-position="645">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
         </state>
       </provider>
     </entry>
