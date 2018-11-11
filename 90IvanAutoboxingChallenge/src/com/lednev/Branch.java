@@ -19,10 +19,15 @@ public class Branch {
         return customers;
     }
 
-    public void addCustomer(String name){
+    public boolean addCustomer(String name){
+        if(findCustomer(name) == -1){
+            // This is where we can test the factory method in Customer
+            customers.add(new Customer(name));
+            return true;
+        }
+        System.out.println("There is already a customer by that name");
+        return false;
 
-        // This is where we can test the factory method in Customer
-        customers.add(new Customer(name));
     }
 
     public void addCustomer(String name, double initialSum){

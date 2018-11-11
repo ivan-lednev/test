@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="677aa4ec-b914-4c37-8d7c-a49c10071e72" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/notes" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/out/production/90IvanAutoboxingChallenge/com/lednev/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Branch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Branch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/notes" beforeDir="false" afterPath="$PROJECT_DIR$/../90IvanAutoboxingChallenge/src/com/lednev/notes" afterDir="false" />
     </list>
     <ignored path="ArrayListChallenge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,19 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="765">
               <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="420">
               <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
@@ -483,20 +488,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -508,6 +499,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="105" column="19" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
