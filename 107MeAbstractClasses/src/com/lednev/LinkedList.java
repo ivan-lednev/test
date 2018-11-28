@@ -21,11 +21,9 @@ public class LinkedList{
             return;
         }
 
-        Iterator<ListItem> i = items.iterator();
+        ListItem next = items.get(0);
 
-        ListItem next = i.next();
-
-        while(i.hasNext()) {
+        while(next.getNext() != null) {
 
             if (next.getValue().compareTo(item.getValue()) == 0) {
                 System.out.println("LL > add > not added, identical values");
@@ -34,10 +32,13 @@ public class LinkedList{
                 if (next.getNext() == null) {
                     next.setNext(item);
                     item.setPrevious(next);
-                    System.out.println("LL > add > entries connected");
+                    System.out.println("LL > add > item added to end of list");
                     return;
                 } else {
-                    System.out.println("Item in list already has a next");
+                    System.out.println("LL > add > " + item.getValue() + " is greater than " + next.getValue() + ". Moving further");
+                    next = next.getNext();
+                    System.out.println("This is the new next");
+                    System.out.println(next.getValue());
                     return;
                 }
             }
