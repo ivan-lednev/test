@@ -1,0 +1,10 @@
+|unsavedNewEmail        |unsavedNewEmail_Spanish@as-aws-dev.com                       |
+|savedNewEmail          |savedNewEmail_Spanish@as-aws-dev.com                         |
+|completed              |completed_Spanish@its.jnj.com                                |
+|private_long_name      |private_long_name_Spanish@its.jnj.com                        |
+|userEmail              |autotest_es#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com     |
+|newUserEmail           |autotest#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com        |
+|userPrivateEmail       |autotestpriv_es#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com |
+|ssoUserEmail           |autotestsso_es#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com  |
+|externalID             |#{P(MMddhhmmss)}                                             |
+|umemberId              |autouid#{random(3)}#{P(yyMMddhhmmss)}                        |
