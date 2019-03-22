@@ -1,1 +1,7 @@
-Amending it a second time
+
+|l1emailUpdateEmail     |L1emailUpdate_Spanish@as-aws-dev.com                         |
+|l1emailUpdateNewEmail  |newEmail123_Spanish@dev-as-aws.com                           |
+|nonDestructiveUserEmail|nonDestructive_es@as-aws-dev.com                             |
+|unsavedEmailTest       |unsavedEmailTest_Spanish@as-aws-dev.com                      |
+|unsavedNewEmail        |unsavedNewEmail_Spanish@as-aws-dev.com                       |
+|savedNewEmail          |savedNewEmail_Spanish@as-aws-dev.com                         |
