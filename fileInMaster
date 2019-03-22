@@ -8,3 +8,7 @@
 |ssoUserEmail           |autotestsso_es#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com  |
 |externalID             |#{P(MMddhhmmss)}                                             |
 |umemberId              |autouid#{random(3)}#{P(yyMMddhhmmss)}                        |
+|l1emailUpdateEmail     |L1emailUpdate_Spanish@as-aws-dev.com                         |
+|l1emailUpdateNewEmail  |newEmail123_Spanish@dev-as-aws.com                           |
+|nonDestructiveUserEmail|nonDestructive_es@as-aws-dev.com                             |
+|unsavedEmailTest       |unsavedEmailTest_Spanish@as-aws-dev.com                      |
