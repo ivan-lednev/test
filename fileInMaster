@@ -8,3 +8,9 @@
 |ssoUserEmail           |autotestsso_es#{random(3)}#{P(yyMMddhhmmss)}@as-aws-dev.com  |
 |externalID             |#{P(MMddhhmmss)}                                             |
 |umemberId              |autouid#{random(3)}#{P(yyMMddhhmmss)}                        |
+|emailAlreadyExistsError       |NOT TRANSLATED                                                     |
+|invalidUniqueID               |Ups. Tu ID único no es válido. Asegúrate de que estás utilizando la información correcta y revisa las mayúsculas y los espacios.|
+|feedback                      |NOT TRANSLATED                                                                                                                                                         |
+|submit|Enviar|
+|forgotPassSuccessMessage|SPANISH Check Your Email|
+|changePassSuccessMessage|SPANISH Success! Your password has been changed.|
