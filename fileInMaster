@@ -12,3 +12,7 @@
 |l1emailUpdateNewEmail  |newEmail123_Spanish@dev-as-aws.com                           |
 |nonDestructiveUserEmail|nonDestructive_es@as-aws-dev.com                             |
 |unsavedEmailTest       |unsavedEmailTest_Spanish@as-aws-dev.com                      |
+|levelOneDropDownText          |Company with all registration fields                                                                                                                     |
+|depressionQuestionText|Me siento melancólico|
+|levelTwoDropDownText          |Reporting Child A                                                                                                                                        |
+|levelThreeDropDownText        |Reporting Grandchild A1         
