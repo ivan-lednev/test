@@ -5,3 +5,12 @@
 |unsavedEmailTest       |unsavedEmailTest_Spanish@as-aws-dev.com                      |
 |unsavedNewEmail        |unsavedNewEmail_Spanish@as-aws-dev.com                       |
 |savedNewEmail          |savedNewEmail_Spanish@as-aws-dev.com                         |
+|female                        |Mujer                                                                                                                                                                        |
+|under18Message                |Debes tener 18 años o más para crear tu cuenta. Si tienes alguna pregunta, llama al +1-866-433-9284.                                                                         |
+|wrongDateOfBirthFormat        |Ingresa una fecha de nacimiento válida.                                                                                                                                      
+|passwordTooShort              |Demasiado corta                                                                                                                                                              |
+|passwordWeak                  |Débil                                                                                                                                                                        |
+|passwordMedium                |Media                                                                                                                                                                        |
+|passwordStrong                |Segura                                                                                                                                                                       |
+|passwordVeryStrong            |Muy segura                                                                                                                                                                   |
+|levelOneDropDownText          |Company with all registration fields                                                                                                                     |
